@@ -91,3 +91,7 @@ button:active{
     -o-transform: translate(0 ,0.3rem);
     box-shadow: 0 0.1rem rgba(121, 121, 121, 0.65);
 }
+
+.fa-twitter:hover{
+   color: #38a1f3;
+}
